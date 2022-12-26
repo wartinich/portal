@@ -1,0 +1,6 @@
+fastapi 
+uvicorn[standard]
+SQLAlchemycle
+PyJWT
+flake8
+pytest 
